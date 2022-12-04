@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhsin</h1>
-- 🌱 I’m currently learning **React, Vue, Spring Boot, .Net Core, Tensorflow.js**
-- 🌱 I’m currently working on Source bin clone with React
-- 
+- 🌱 I’m currently learning **Swift and SwiftUI**
+<br>
+- 🌱 I’m currently working on Microservice Architecture
+<br>
+- I mostly use Javascript in my personal projects but I'm working as Java Backend Developer in a Bank
+<br>
 - 📫 How to reach me **muhsincaliskan96@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

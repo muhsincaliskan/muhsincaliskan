@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhsin</h1>
-- 🌱 I’m currently learning **Swift and SwiftUI**
+- 🌱 I’m currently learning **Microservice Architechture, Swift and SwiftUI**
 <br>
-- 🌱 I’m currently working on Microservice Architecture
+- 🌱 I’m currently working on Microservice ticket app. Backend will be written in Java and  I am planning to use React for frontend.
+-  Also I'm learning microservices implementation for nodejs too. I'm going to try to convert my discord bot to a microservice app with my new knowledges.
 <br>
-- I mostly use Javascript in my personal projects but I'm working as Java Backend Developer in a Bank
+- I mostly use Javascript in my personal projects but I'm working as Java Backend Developer in a Bank.
 <br>
 - 📫 How to reach me **muhsincaliskan96@gmail.com**
 

@@ -3,7 +3,7 @@
 I am Muhsin Caliskan, a software developer from Turkey 
 </p>
 <br>
-- I mostly use Javascript in my personal projects but I'm working as Java Backend Developer in a Bank.
+- I mostly use Javascript in my personal projects but I'm working as Java Backend Developer in a company.
 <br>
 - I’m currently learning **Microservice Architechture** and other software architecture patterns
 <br>

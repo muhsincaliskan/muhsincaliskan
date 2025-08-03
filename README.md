@@ -1,11 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-I am Muhsin Caliskan, a software developer from Turkey 
+I am Muhsin Caliskan, a software Engineer from Turkey 
 </p>
 <br>
 - I mostly use Java and Javascript in my personal projects but I'm working as Java Backend Developer in a company.
-<br>
-- I’m currently learning **Microservice Architechture** and other software architecture patterns 
 <br>
 <br>
 - 📫 How to reach me **muhsincaliskan96@gmail.com**

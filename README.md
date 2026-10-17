@@ -1,17 +1,19 @@
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
-I am Muhsin Caliskan, a software Engineer from Turkey 
+I am Muhsin Caliskan, a Software Engineer from Turkey 
 </p>
 <br>
 - I mostly use Java and Javascript in my personal projects but I'm working as Java Backend Developer in a company.
+- Microservices
+- Web applications
+- AI assisted platforms
 <br>
 <br>
-- 📫 How to reach me **muhsincaliskan96@gmail.com**
+- 📫 How to reach me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhsincaliskan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhsincaliskan" height="30" width="40" /></a>
-<a href="https://instagram.com/muhsin_caliskan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhsin_caliskan_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
